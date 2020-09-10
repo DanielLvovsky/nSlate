@@ -15,8 +15,8 @@
   <img src="https://img.shields.io/badge/backend-firebase-FFCA28?&logo=firebase" alt="Project Technology" />
   <img src="https://img.shields.io/badge/language-javascript-F7DF1E?&logo=javascript" alt="Project Technology" />
   <img src="https://img.shields.io/badge/framework-react_js-61DAFB?&logo=react" alt="Project Technology" />
-  <img src="https://img.shields.io/badge/framework-react_js-1572B6?&logo=css3" alt="Project Technology" />
-  <img src="https://img.shields.io/badge/framework-react_js-E34F26?&logo=html5" alt="Project Technology" />
+  <img src="https://img.shields.io/badge/language-css3-1572B6?&logo=css3" alt="Project Technology" />
+  <img src="https://img.shields.io/badge/language-html5-E34F26?&logo=html5" alt="Project Technology" />
 </p>
 
 <p align="center">
