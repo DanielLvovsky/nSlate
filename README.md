@@ -39,22 +39,13 @@ Run the script:
 
     npm run start
     
-Done! in a few seconds you should open a browser tab with this screen:    
+Done! in a few seconds you should be able to open a browser tab with your screen displaying this:    
 
 ![Main Print Screen](https://firebasestorage.googleapis.com/v0/b/todo-dd76b.appspot.com/o/Captura%20de%20Tela%20(6).png?alt=media&token=5b94ff9a-74ce-41e7-b320-b7ba51a0f57f)
     
-And your command prompt should look like this:    
-
-![Prompt Print Screen](https://firebasestorage.googleapis.com/v0/b/todo-dd76b.appspot.com/o/Captura%20de%20Tela%20(7).png?alt=media&token=174249d5-e764-4304-a357-a86a7d2ca941)
-
-# Embla Carousel React
-On the homepage I use my favorite library when it comes to Carousel: [Embla Carousel React,](https://davidcetinkaya.github.io/embla-carousel/) by [David Cetinkaya](https://github.com/davidcetinkaya) but not for nothing, this library has a simple installation: in four, five lines of CSS code and an import I have access to a fluid, fast, clean, simple and beautiful carousel. This library is simply amazing.  
-See the demo page live:
-
-![Demo Page Embla Carousel React](https://firebasestorage.googleapis.com/v0/b/todo-dd76b.appspot.com/o/Captura%20de%20Tela%20(8).png?alt=media&token=9d6c183a-9e87-4ca1-a0e5-79996c15e9ce)
-
+    
 # Thanks
-This is a very simple application that I used to learn some new technologies for me, and during the development process the [Rocketseat community](https://rocketseat.com.br/comunidade) was present all the time, which is why I consider it __one of the best Brazilian communities.__
+I enjoyed learning react.js along with firebase.
 
 <br>
 <br>
@@ -65,9 +56,9 @@ This is a very simple application that I used to learn some new technologies for
   Open Source
 </h2>
 <p align="center">
-  <sub>Copyright © 2020-present, Laks Castro.</sub>
+  <sub>Copyright © 2020-present, Daniel Lvovsky.</sub>
 </p>
-<p align="center">To Do List <a href="https://github.com/LaksCastro/todo/blob/master/LICENSE.md">is MIT licensed 💖</a></p>
+<p align="center">nSlate <a href="https://github.com/DanielLvovsky/nSlate/blob/master/LICENSE.md">is MIT licensed <img align="center" src="https://img.icons8.com/color/20/000000/open-source--v1.png"/> </a></p>
 <p align="center">
   <img src="./src/assets/logo192.png" width="35" />
 </p>
