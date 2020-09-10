@@ -38,15 +38,21 @@ Run the script:
 
     npm run start
     
-Done! in a few seconds you should be able to open a browser tab with your screen displaying this:    
+Done! in a few seconds you should be able to open a browser tab with your screen displaying this:   
+
 
 ![Main Print Screen](https://daniellvovsky.com/static/c972e63ad53a4053abfabd8fff51569e/91fa7/nSlate-01.webp)
-    
+
+---
+
 Build:
 
-   npm run build
+     npm run build
    
-Now you will have a build folder where you can upload to your hosting provider 
+Now you will have a build folder where you can upload to your hosting provider
+
+
+    
     
 # Thanks
 I enjoyed learning react.js along with firebase.
