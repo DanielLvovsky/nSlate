@@ -15,7 +15,6 @@
   <img src="https://img.shields.io/badge/backend-firebase-orange" alt="Project Technology" />
   <img src="https://img.shields.io/badge/language-javascript-yellow" alt="Project Technology" />
   <img src="https://img.shields.io/badge/framework-react_js-blue" alt="Project Technology" />
-  <img src="https://img.shields.io/badge/architecture-redux-blueviolet" alt="Project Technology" />
 </p>
 
 <p align="center">
