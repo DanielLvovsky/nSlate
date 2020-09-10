@@ -1,0 +1,80 @@
+#app {
+    background: #0A0A0A;
+    height: 100vh;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    min-height: 450px;
+
+    z-index: 1;
+}
+#message {
+    padding: 0 2rem;
+    max-width: 500px;
+    text-align: center;
+    color: #494643;
+    font-size: 1.1em;
+    line-height: 1.9;
+}
+#link-react {
+    color: #494643;
+    font-weight: bolder;
+    font-size: 1.1em;
+
+    transition: var(--transition);
+    &:hover {
+        color: lightgrey;
+    }
+}
+#wrapper {
+    text-decoration: none;
+    text-align: center;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+@mixin glitchCopy {
+    content: attr(data-text);
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+
+.glitch {
+    position: relative;
+    color: white;
+    font-size: 4em;
+    margin-bottom: 1rem;
+    /* Animation provies a slight random skew. Check bottom of doc
+	for more information on how to random skew. */
+    animation: glitch-skew 1s infinite linear alternate-reverse;
+
+    // Creates a copy before our text.
+    
+
+    // Creates a copy after our text. Note comments from ::before.
+    &::after {
+        @include glitchCopy;
+        left: -2px;
+        text-shadow: -2px 0 #ffffff00, 2px 2prgba(255, 255, 255, 0)ff;
+        animation: glitch-anim2 1s infinite linear alternate-reverse;
+    }
+}
+
+/* Creates an animation with 20 steaps. For each step, it calculates 
+a percentage for the specific step. It then generates a random clip
+box to be used for the random glitch effect. Also adds a very subtle
+skew to change the 'thickness' of the glitch.*/
+
+// Does the same deal as before, but now only skews. Used for main text.
+
+//Me, Laks: i dont create this animation, she is available in: https://codepen.io/cipherbeta/pen/YLdVjw
