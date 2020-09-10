@@ -3,9 +3,9 @@
 <p>
 <p align="center">⭐⭐⭐⭐⭐</p>
 <h1 align="center">
-    To Do List
+    nSlate
 </h1>
-<p align="center">This is a simple To Do List platform that uses React Js and Firestore as the backend, and its Authentication, Storage and Firestore features</p>
+<p align="center">This is a simple To Do List app that uses React.js and Firebase as the backend with Authentication, Storage and other Firebase features</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/backend-firebase-orange" alt="Project Technology" />
@@ -19,6 +19,8 @@
       <img src="https://img.shields.io/twitter/url?label=Connect%20%40LaksCastro&logo=linkedin&url=https%3A%2F%2Fwww.twitter.com%2Flakscastro%2F" alt="Follow" />
     </a>
 </p>
+
+[![Website](https://img.shields.io/website?label=nslate.com&style=for-the-badge&url=https://newslate.netlify.app/login&logo=netlify&color=88BEC8)](https://newslate.netlify.app/login) 
 
 # Live Demo
 You can check the working application at [this link.](https://lakscastro.github.io/todo/)
