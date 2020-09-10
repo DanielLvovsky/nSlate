@@ -19,22 +19,17 @@
 </p>
 
 <p align="center">
-    <a href="https://www.linkedin.com/in/lakscastro" target="_blank">
-      <img src="https://img.shields.io/twitter/url?label=Connect%20%40LaksCastro&logo=linkedin&url=https%3A%2F%2Fwww.twitter.com%2Flakscastro%2F" alt="Follow" />
+    <a href="https://www.linkedin.com/in/daniel-lvovsky/" target="_blank">
+      <img src="https://img.shields.io/twitter/url?label=Connect%20%40DanielLvovsky&logo=linkedin&url=https://www.linkedin.com/in/daniel-lvovsky/" alt="Follow" />
     </a>
 </p>
 
-[![Website](https://img.shields.io/website?label=nslate.com&style=for-the-badge&url=https://newslate.netlify.app/login&logo=netlify&color=88BEC8)](https://newslate.netlify.app/login) 
+# Live Website
+You can check out nSlate with [this link.](https://newslate.netlify.app/login)
 
-# Live Demo
-You can check the working application at [this link.](https://lakscastro.github.io/todo/)
-
-# Turn on your machine
+# Getting Started:
 >  _**Dont forget to check enviroment variables, in .env.example file, you can get your variables creating a new Firebase project [here](https://console.firebase.google.com/)**_
 
-Copy the repository:
-
-    git clone https://github/LaksCastro/todo.git
     
 Install dependencies, remember, lets use example `npm` but you can use the package manager of your choice:
 
