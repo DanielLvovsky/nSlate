@@ -28,7 +28,7 @@
 You can check out nSlate with [this link.](https://newslate.netlify.app/login)
 
 # Getting Started:
->  _**Dont forget to check enviroment variables, in .env.example file, you can get your variables creating a new Firebase project [here](https://console.firebase.google.com/)**_
+>  _**Dont forget to check enviroment variables, in .env file, you can get your variables creating a new Firebase project [here](https://console.firebase.google.com/)**_
 
     
 Install dependencies, remember, lets use example `npm` but you can use the package manager of your choice:
@@ -41,8 +41,13 @@ Run the script:
     
 Done! in a few seconds you should be able to open a browser tab with your screen displaying this:    
 
-![Main Print Screen](https://firebasestorage.googleapis.com/v0/b/todo-dd76b.appspot.com/o/Captura%20de%20Tela%20(6).png?alt=media&token=5b94ff9a-74ce-41e7-b320-b7ba51a0f57f)
+![Main Print Screen](https://daniellvovsky.com/static/c972e63ad53a4053abfabd8fff51569e/91fa7/nSlate-01.webp)
     
+Build:
+
+   npm run build
+   
+Now you will have a build folder where you can upload to your hosting provider 
     
 # Thanks
 I enjoyed learning react.js along with firebase.
