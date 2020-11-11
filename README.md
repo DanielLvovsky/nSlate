@@ -3,7 +3,7 @@
 <p>
 <p align="center">
     <a href="https://newslate.netlify.app/login" target="_blank">
-      <img src="https://img.shields.io/website?label=nslate.com&style=for-the-badge&url=https://newslate.netlify.app/login&logo=netlify&color=4ECCA3" alt="nSlate" />
+      <img src="https://img.shields.io/website?label=nslate.com&style=for-the-badge&url=https://nslate.netlify.app/loginlogin&logo=netlify&color=4ECCA3" alt="nSlate" />
     </a>
 </p>
 <h1 align="center">
