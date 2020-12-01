@@ -40,10 +40,7 @@ Run the script:
 
     npm run start
     
-Done! in a few seconds you should be able to open a browser tab with your screen displaying this:   
-
-
-![Main Print Screen](https://daniellvovsky.com/static/c972e63ad53a4053abfabd8fff51569e/91fa7/nSlate-01.webp)
+Done! in a few seconds you should be able to open a browser tab with the login page displayed
 
 ---
 
